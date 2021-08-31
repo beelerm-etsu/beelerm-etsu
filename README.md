@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my personal repository. I am currentlty a junior at ETSU majoring in Computer Science and learning how to use Github. 
+
 <!--
 **beelerm-etsu/beelerm-etsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
